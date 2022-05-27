@@ -1,0 +1,31 @@
+.del{
+ display: flex;
+ justify-content: space-between;
+ margin-top: 10px;
+ font-size: 20px;
+ font-weight: bold;
+}
+.con{
+    width:fit-content;
+    margin: auto;
+    margin-top: 15px;
+}
+.cont1{
+    border:2px solid black;
+}
+.input{
+    height:30px;
+    width:200px;
+    border: 0;
+    outline: none;
+    padding-left: 10px;
+}
+.btn{
+    height:36px;
+    width:50px;
+    border:0px;
+    font-weight: bold;
+    font-size: 25px;
+    background-color:transparent;
+
+}

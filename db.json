@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Read React",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "value": "Learn React",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "value": "Try with React",
+      "isCompleted": true
+    },
+    {
+      "value": "Push React",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "value": "Pull React",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "Hello World",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "learn every thing on react",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "writte react",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "value": "sad with react",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "value": "Sad",
+      "isCompleted": false,
+      "id": 10
+    }
+  ]
+}
